@@ -17,3 +17,18 @@ class Player:
 
     #create a method play()
     def play(self):
+
+class Deck:
+    """
+    Creating a complete deck of cards
+    """
+    def __init__(self, cards: str):
+
+    #create a fill_deck() method
+    def fill_deck():
+
+    #create a shuffle() method
+    def shuffle():
+
+    #create a distribute() method
+    def distribute():
