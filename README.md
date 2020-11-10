@@ -1,8 +1,3 @@
-# challenge-card-game-becode
-OOP project card game
-What, Why, When, How, Who.
-Pending things to do
-
 # OOP Project 1: ♥ ♦ ♣ ♠ Card game ♥ ♦ ♣ ♠
 
 
